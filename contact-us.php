@@ -96,7 +96,7 @@
                 <h4><b>Où</b> Nous Trouver</h4>
  <div class="col-md-8">
  <div id="map" class="embed-responsive embed-responsive-16by9">
- <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1QHerw1IfKBnUcFrrDgTzOLsKKWc" width="650" height="325" style="border:none;"></iframe>    
+ <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1QHerw1IfKBnUcFrrDgTzOLsKKWc" width="400" height="400" style="border:none;"></iframe>    
                     </div>
             </div><!--/.col-sm-4-->
         </div>
